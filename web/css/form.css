@@ -1,0 +1,16 @@
+body {
+  background: #fff;
+  padding-top: 100px;
+}
+.main-section {
+  padding: 15px;
+  background: #f1f1f1;
+}
+
+h3 {
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 2rem;
+}

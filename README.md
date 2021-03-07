@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="Yii-Form/web/img/Preview.JPG" height="100px">
+        <img src="/web/img/Preview.JPG" height="100px">
     </a>
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
